@@ -1,6 +1,6 @@
 HUNGRY SHARK
 
-image
+https://github.com/merryaton/HungryShark/issues/1#issue-727638842
 
 Project Description:
   This game design document shows the information about the multi-platform based 2D game in which the player eats fish to get full. This game is an underwater concept and plays with a character gaining points and avoid touching the bombs.
