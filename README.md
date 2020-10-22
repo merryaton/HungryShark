@@ -2,6 +2,9 @@ HUNGRY SHARK
 
 ![logo](https://user-images.githubusercontent.com/73306480/96918638-2e2d9800-14dd-11eb-9ee4-48dbc5dc2882.png)
 
+Sample Video:
+https://drive.google.com/file/d/1v7Er4mqTXoSFo0UlGEijCCVzxvSiaR_t/view?usp=sharing
+
 Project Description:
 This game design document shows the information about the multi-platform based 2D game in which the player eats fish to get full. This game is an underwater concept and plays with a character gaining points and avoid touching the bombs.
 
