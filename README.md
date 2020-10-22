@@ -36,11 +36,12 @@ The game will be used on: IOS, Android and PC.
 · Fonts: Minecraftia
 · Graphics:
 
+![layout-1](https://user-images.githubusercontent.com/73306480/96924096-be231000-14e4-11eb-81f8-d081f24e190f.png)
+
 Character: Shark
 Ambient(background):
 Background: Underwater
 Scoreboard: located at the upper left corner ('Manecraftia' font)
 Demographics:
 Age: 5 years old and above
-
-Sex: Everyone
+Gender: Everyone
