@@ -35,7 +35,8 @@ Technical Description:
    The game will be used on: IOS, Android and PC.
     · Controls: Tap to start, play and restart
     · Fonts: Minecraftia
-    · Graphics:
+
+Graphics:
         Character: Shark
         Ambient(background):
         Background: Underwater
