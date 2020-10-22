@@ -11,6 +11,8 @@ This game design document shows the information about the multi-platform based 2
 Character:
 The main character of the story is the shark who seek a food for his hungry tummy. This character is big, strong and wild character who can eat fishes as many as he can.
 
+![jetpack](https://user-images.githubusercontent.com/73306480/96923857-6edcdf80-14e4-11eb-8454-7078d1fd1cd7.png)
+
 Story:
 There was a Shark who is very hungry and find something to eat. He keeps on swimming and finally found huge number of fishes at the center of the ocean where it is a chance that he can provide his starvation. Suddenly, he did not expect there were bombs in the ocean which is also a disadvantage of losing his life. A thing which he can survive is to avoid of touching the bombs.
 
